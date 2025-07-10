@@ -1,24 +1,13 @@
-# Quasar Focus Gui (com-steleaf-focus-quasar)
+# com.steleaf.focus
 
-Focus gui
+## Overview
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+**com.steleaf.focus** is an application designed to help users concentrate on their chosen targets. It provides tools and features to minimize distractions and maximize productivity.
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+## Features
+
+- Set your target
+- Set some related steps
+- Minimal and user-friendly interface
 
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
